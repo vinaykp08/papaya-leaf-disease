@@ -1,0 +1,7 @@
+class,accuracy
+black_spot,1.0
+healthy,1.0
+leaf_curl,1.0
+mosaic,0.9855072463768116
+powdery_mildew,0.9943820224719101
+overall,0.9962756052141527

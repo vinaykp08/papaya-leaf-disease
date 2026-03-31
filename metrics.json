@@ -1,0 +1,26 @@
+[
+  {
+    "class":"black_spot",
+    "accuracy":1.0
+  },
+  {
+    "class":"healthy",
+    "accuracy":1.0
+  },
+  {
+    "class":"leaf_curl",
+    "accuracy":1.0
+  },
+  {
+    "class":"mosaic",
+    "accuracy":0.9855072464
+  },
+  {
+    "class":"powdery_mildew",
+    "accuracy":0.9943820225
+  },
+  {
+    "class":"overall",
+    "accuracy":0.9962756052
+  }
+]
