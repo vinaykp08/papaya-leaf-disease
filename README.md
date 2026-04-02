@@ -86,13 +86,17 @@ venv\Scripts\activate
 
 # 3. Install dependencies
 pip install --upgrade pip
+
 pip install -r requirements.txt
 
 # From project root
 python scripts/prepare_data.py
 
+#train dataset 
 python -m src.train
 
+#evaluate 
 python -m src.evaluate
 
+#run project 
 streamlit run app/ui.py
